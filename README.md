@@ -1,0 +1,2 @@
+# hello-world
+JUST TRYING OUT GITHUB FIRST TIME
